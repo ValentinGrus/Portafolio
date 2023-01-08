@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(161, 159, 159);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.menu{
+    list-style: none;
+    padding: 0;
+    background: #092327;
+    width: 90%;
+    max-width: 1000px;
+    margin: auto;
+}
+
